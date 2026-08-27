@@ -171,8 +171,8 @@ CHANNELS = [
     {
         "name": "F yesilcam",
         "key": "fmedya2",
-        "m3u": "https://ip.akkontv.com:3205/stream/play.m3u8",
-        "logo": "https://r.resimlink.com/RJjpqmA8tweh.png",
+        "m3u": "https://raw.githubusercontent.com/fmuzik4/fyesilcam8/refs/heads/main/fmedya2.m3u",
+        "logo": "https://i.postimg.cc/J7bRNsJj/17045-removebg-preview.png"",
 
         "ads": [
             "https://YOUR-AUTHORIZED-SERVER.example/reklam1.mp4",
