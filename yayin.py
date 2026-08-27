@@ -169,10 +169,10 @@ RTMP_URL = "rtmp://ssh101.bozztv.com:1935/ssh101"
 CHANNELS = [
 
     {
-        "name": "YAYIN 1",
-        "key": "zemtv",
-        "m3u": "https://raw.githubusercontent.com/mutlumedya/yayin2/refs/heads/main/action.m3u",
-        "logo": "https://raw.githubusercontent.com/mutlumedya/benim/refs/heads/main/logo.png",
+        "name": "F yesilcam",
+        "key": "fmedya2",
+        "m3u": "https://ip.akkontv.com:3205/stream/play.m3u8",
+        "logo": "https://r.resimlink.com/RJjpqmA8tweh.png",
 
         "ads": [
             "https://YOUR-AUTHORIZED-SERVER.example/reklam1.mp4",
